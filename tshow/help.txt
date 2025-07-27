@@ -1,0 +1,4 @@
+Thanks for using my project!
+Examples of usage:
+tshow.exe -h
+tshow.exe cat text.txt

@@ -1,0 +1,49 @@
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.lib
+*.app
+*.pdb
+*.ipch
+
+# CMake (если используешь)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Logs and databases
+*.log
+
+# OS generated
+Thumbs.db
+.DS_Store
+
+# Others (optional)
+*.opensdf
+*.tlog
+*.idb
+*.sdf
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# Ignore test results
+TestResults/
+
+# Crash dumps
+*.dmp
